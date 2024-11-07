@@ -1,6 +1,22 @@
 {
-    "title":"emos Blog",
+    "title":"Memos Blog",
     "subTitle":"非官方博客",
     "avatarUrl":"https://memos.top/assets/img/avatar.svg",
+    "commentLabelColor": "#006b75",
+    "yearColorList": ["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n": "CN",
+    "UTC": 8,
+    "urlMode": "pinyin",
+    "style": "",
+    "singlePage":["about"],
+    "onePageListNum":10,
+    "startSite":"10/10/2024",
+    "script": "<script>const linkElement = document.createElement('link'); linkElement.rel = 'stylesheet'; linkElement.href = 'https://cdn.imsun.org/lxgw-wenkai-screen-webfont/lxgwwenkaigbscreen.css'; linkElement.onload = function() { const styleElement = document.createElement('style'); styleElement.innerHTML = `* { font-family: \\\"LXGW WenKai Screen\\\", sans-serif !important; }`; document.head.appendChild(styleElement); }; document.head.appendChild(linkElement);</script>",
+    "head": "",
+    "allHead": "",
+    "indexStyle": "",
+    "indexScript": "<script>const linkElement = document.createElement('link'); linkElement.rel = 'stylesheet'; linkElement.href = 'https://cdn.imsun.org/lxgw-wenkai-screen-webfont/lxgwwenkaigbscreen.css'; linkElement.onload = function() { const styleElement = document.createElement('style'); styleElement.innerHTML = `* { font-family: \\\"LXGW WenKai Screen\\\", sans-serif !important; }`; document.head.appendChild(styleElement); }; document.head.appendChild(linkElement);</script>",
+    "showPostSource": 1,
+    "rssSplit": "sentence",
     "GMEEK_VERSION":"last"
 }
